@@ -4,7 +4,8 @@
 
 ## Демо
 
-Ссылка на приложение: (добавить после деплоя в Vercel)
+[Ссылка на приложение](https://restaurant-booking-blond.vercel.app/)
+[Репозиторий GitHub](https://github.com/Dendru/restaurant-booking)
 
 ## Функциональность
 
