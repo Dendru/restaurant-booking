@@ -5,6 +5,7 @@
 ## Демо
 
 [Ссылка на приложение](https://restaurant-booking-blond.vercel.app/)
+
 [Репозиторий GitHub](https://github.com/Dendru/restaurant-booking)
 
 ## Функциональность
